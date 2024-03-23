@@ -136,10 +136,10 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
 text: text,
 contextInfo: {
 externalAdReply: {
-title: 'BOBIZA BOT ♥',
+title: 'X25 BOT ♥',
 body: "أول بوت واتساب في العالم العربي 💖",
-thumbnailUrl: 'https://telegra.ph/file/2829c7653514416d207e2.jpg',
-sourceUrl: 'https://instagram.com/noureddine_ouafy',
+thumbnailUrl: 'https://www.wallpapertip.com/wmimgs/12-127193_madara-uchiha-wallpaper-data-src-beautiful-madara-madara.jpg',
+sourceUrl: 'https://www.instagram.com/x25__madara?igsh=OWllcnV1NTYzMGtw',
 mediaType: 1,
 renderLargerThumbnail: true
 }}}, { quoted: m})
